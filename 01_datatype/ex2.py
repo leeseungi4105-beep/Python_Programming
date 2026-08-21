@@ -41,3 +41,14 @@ b = 1.8e308
 print(a, b, sep="\n")
 
 # 실수의 오차
+
+print(0.1 + 0.2)
+print(0.1 + 0.2 == 0.3)
+print(f"{0.1:.20f}")
+print(f"{0.2:.20f}")
+
+# sys.float_info.epsilon
+
+# 형변환
+print(float(10))
+print(int(3.14))
