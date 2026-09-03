@@ -12,6 +12,9 @@ print(a % b)  # 나머지
 print(a // b)  # 몫
 print(a**b)
 
+
+print(10 / 2)
+
 # 복합대입연산자
 a = 0
 a += 4
