@@ -52,3 +52,4 @@ print(f"{0.2:.20f}")
 # 형변환
 print(float(10))
 print(int(3.14))
+d = input()
